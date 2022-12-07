@@ -10,3 +10,4 @@ Git教程
 - featureD继续开发，并且commit了
 - 测试一下
 - 再测试一下
+- testRebase
